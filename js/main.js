@@ -1,7 +1,7 @@
 
 async function fetchSixProducts() {
   try {
-    const response = await fetch("../products.json", {
+    const response = await fetch("products.json", {
       method: "GET",
       headers: {
         Accept: "application/json",
