@@ -1,0 +1,432 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "SM-226LQ",
+        "description": "Overhead Door Magnetic Contact, 2-3/4″ (70mm) Gap, Closed loop, UL Listed",
+        "subdescription": "<li> Operating voltage: 12~24 VDC</li><li>2-3/4″ (70mm) Gap for overhead doors</li><li>Adjustable to fit most door-channel widths</li><li>24″ (61cm) Armored wire leads</li><li>Reed switch has deactivated rhodium on gold underplating</li><li>For closed-loop circuits</li><li>Weatherproof IP66 – Epoxy sealed for weatherproof installation</li><li>Mounting bracket included</li><li>Limited lifetime warranty</li>",
+        "image": "images/1.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-226LQ.pdf"
+        
+        
+      },
+      {
+        "id": 2,
+        "name": "SM-226L-3Q",
+        "description": "Overhead Door Magnetic Contact, 2-3/4″ (70mm) Gap, Open/Closed loop (3 Wires)",
+        "subdescription": "<li> Operating voltage: 12~24 VDC</li><li>2-3/4″ (70mm) Gap for overhead doors</li><li>Adjustable to fit most door-channel widths</li><li>24″ (61cm) Armored wire leads</li><li>Reed switch has deactivated rhodium on gold underplating</li><li>For closed-loop circuits</li><li>Weatherproof IP66 – Epoxy sealed for weatherproof installation</li><li>Mounting bracket included</li><li>Limited lifetime warranty</li>",
+        "image": "images/2.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-226L-3Q.pdf"
+        
+      },
+      {
+        "id": 3,
+        "name": "SM-226RQ",
+        "description": "Overhead Door Magnetic Contact, 2-3/4″ (70mm) Gap, Closed loop, UL Listed",
+        "subdescription": "<li>Used for overhead doors in both industrial and residential situations where a wide gap is present</li><li>Adjustable to fit most door-channel widths</li><li>Switch contained in curved low-profile cast-aluminum housing for surface mounting on garage floor</li><li>Magnet enclosed in epoxy compound inside aluminum case for direct installation to garage door with no projecting bracket to break or serve as a handle</li><li>24″ (61cm) Wire leads enclosed in armored cable</li><li>Contact reed switch has deactivated rhodium on gold under plating for a longer expected life</li><li>For closed loop circuits</li><li>2-3/4″ (70mm) Gap</li> <li>Weatherproof IP66</li><li>Lifetime limited warranty</li>",
+        "image": "images/3.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-226RQ.pdf"
+      },
+      {
+        "id": 4,
+        "name": "SM-226R-3Q",
+        "description": "Overhead Door Magnetic Contact, 2-3/4″ (70mm) Gap, Open/Closed loop (3 Wires)",
+        "subdescription": " <li>Used for overhead doors in both industrial and residential situations where a wide gap is present</li><li>Adjustable to fit most door-channel widths</li><li>Switch contained in curved low-profile cast-aluminum housing for surface mounting on garage floor</li><li>Magnet enclosed in epoxy compound inside aluminum case for direct installation to garage door with no projecting bracket to break or serve as a handle</li><li>24″ (61cm) Wire leads enclosed in armored cable</li><li>Contact reed switch has deactivated rhodium on gold under plating for a longer expected life</li> <li>For open/closed loop circuits</li><li>2-3/4″ (70mm) Gap</li><li>IP66 weatherproof</li><li>Lifetime limited warranty</li>",
+        "image": "images/4.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-226R-3Q.pdf"
+      },
+      {
+        "id": 5,
+        "name": "SM-4201-LQ",
+        "description": "Track-Mount Overhead Door Magnetic Contact, 3″ (76mm) Gap, Closed loop",
+        "subdescription": " <li>Used for overhead doors in both industrial and residential situations where a wide gap is present</li><li>Adjustable to fit most door-channel widths</li><li>Rugged aluminum housing</li><li>36″ (91cm) Wire leads enclosed in armored cable</li><li>Contact Type: SPST, iridium-plated to have a high melting point and Vickers hardness for higher power handling and longer expected life</li><li>For closed loop circuits</li><li>3″ (76mm) Gap</li> <li>IP65 Weatherproof</li><li>Mounting bracket included</li><li>Lifetime limited warranty</li>",
+        "image": "images/5.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-4201-LQ.pdf"
+      },
+      {
+        "id": 6,
+        "name": "SM-4201-L3Q",
+        "description": "Track-Mount Overhead Door Magnetic Contact, 3″ (76mm) Gap, Open/Closed loop (3 Wires)",
+        "subdescription": "<li>Used for overhead doors in both industrial and residential situations where a wide gap is present</li> <li>Adjustable to fit most door-channel widths</li><li>Rugged aluminum housing</li> <li>36″ (91cm) Wire leads enclosed in armored cable</li><li>Contact Type: SPDT, iridium-plated to have a high melting point and Vickers hardness for higher power handling and longer expected life</li><li>For open/closed loop circuits</li> <li>3″ (76mm) Gap</li><li>IP65 Weatherproof</li><li>Mounting bracket included</li> <li>Optional L-bracket (SM-8201-LWQ) available for door channels 2-1/2~4″ (62x102mm), dimensions: 3″x2″x1-1/4″ (76x51x32 mm)</li> <li>Lifetime limited warranty</li>",
+        "image": "images/6.webp",
+        "shared_image": "images/shared-image.jpg",
+         "files":"files/SM-4201-L3Q.pdf"
+      },
+      {
+        "id": 7,
+        "name": "SM-4201-L6Q",
+        "description": "Track-Mount Overhead Door Magnetic Contact, 3″ (76mm) Gap, Open/Closed loop x2 (6 Wires)",
+        "subdescription": "<li>Used for overhead doors in both industrial and residential situations where a wide gap is present</li> <li>Adjustable to fit most door-channel widths</li><li>Rugged aluminum housing</li> <li>36″ (91cm) Wire leads enclosed in armored cable</li><li>Contact Type: SPDT, iridium-plated to have a high melting point and Vickers hardness for higher power handling and longer expected life</li><li>For open/closed loop circuits</li> <li>3″ (76mm) Gap</li><li>IP65 Weatherproof</li><li>Mounting bracket included</li> <li>Optional L-bracket (SM-8201-LWQ) available for door channels 2-1/2~4″ (62x102mm), dimensions: 3″x2″x1-1/4″ (76x51x32 mm)</li> <li>Lifetime limited warranty</li>",
+        "image": "images/7.webp",
+        "shared_image": "images/shared-image.jpg",
+         "files":"files/SM-4201-L6Q.pdf"
+      },
+      {
+        "id": 8,
+        "name": "SM-8201-LWQ",
+        "description": "Wide L-Bracket, Track Width 2-1/2″~ 4″ for SM-4201-LQ, SM-4201-L3Q, SM-4201-L6Q",
+        "subdescription": " <li>Aluminum</li><li>Adjustable to fit track widths 2-1/2″~4″</li><li>Dimensions: 3″x2″x1-1/4″ (76x51x32 mm)</li>",
+        "image": "images/8.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-8201-LWQ.pdf"
+      },
+      {
+        "id": 9,
+        "name": "SM-4601-LQ",
+        "description": "Industrial Wide-Gap Magnetic Contact, 3″ (76mm) Gap, Closed loop, UL Listed",
+        "subdescription": " <li>Useful for industrial situations where a wide-gap, surface mount contact is needed</li><li>Rugged aluminum housing</li><li>IP54 weather-resistant and sealed for outdoor use</li> <li>Contact Type: SPST, iridium-plated to have a high melting point and Vickers hardness, for higher power handling and long life</li><li>Mounting bracket included</li><li>36″ (91cm) wire leads enclosed in armored cable</li><li>3″ (76mm) Gap</li><li>Lifetime limited warranty</li>",
+        "image": "images/9.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-4601-LQ.pdf"
+      },
+      {
+        "id": 10,
+        "name": "SM-4601-L3Q",
+        "description": "Industrial Wide-Gap Magnetic Contact, 3″ (76mm) Gap, Open/Closed loop (3 Wires)",
+        "subdescription": " <li>Useful for industrial situations where a wide-gap, surface mount contact is needed</li><li>Rugged aluminum housing</li><li>Weather-resistant IP54 and sealed for outdoor use</li><li>Iridium-plated to have a high melting point and Vickers hardness, for higher power handling and long life</li><li>Mounting bracket included</li><li>3″ (76mm) Gap</li><li>36″ (91cm) wire leads enclosed in armored cable</li><li>Lifetime limited warranty</li>",
+        "image": "images/10.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-4601-L3Q.pdf"
+      },
+      {
+        "id": 11,
+        "name": "SM-200Q/W",
+        "description": "Screw-Terminal Surface-Mount Magnetic Contact –White, 3/4″ (19mm) Gap, Closed loop, UL Listed",
+        "subdescription": "<li>With mounting tabs, screw mount using side tabs</li><li>Terminal cover provided (required for all applications)</li> <li>ABS plastic case has lip to prevent wires from accidentally touching metal mountings and slotted mounting holes for easier gap adjustment</li><li>Contact reed switch is SPST, deactivated rhodium on gold under-plating, for a long life</li> <li>3/4″ (19mm) Gap</li> <li>Mounting screws included</li> <li>Lifetime limited warranty</li><li>White case</li>",
+        "image": "images/11.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-200Q_W.pdf"
+      },
+      {
+        "id": 12,
+        "name": "SM-200Q/BR",
+        "description": "Screw-Terminal Surface-Mount Magnetic Contact –Brown, 3/4″ (19mm) Gap, Closed loop, UL Listed",
+        "subdescription": "<li>With mounting tabs, screw mount using side tabs</li> <li>Terminal cover provided (required for all applications)</li><li>ABS plastic case has lip to prevent wires from accidentally touching metal mountings and slotted mounting holes for easier gap adjustment</li><li>Contact reed switch is SPST, deactivated rhodium on gold under-plating, for a long life</li><li>3/4″ (19mm) Gap</li> <li>Mounting screws included</li><li>Lifetime limited warranty</li><li>Brown case</li>",
+        "image": "images/12.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-200Q_BR.pdf"
+      },
+      {
+        "id": 13,
+        "name": "SM-300Q/W",
+        "description": "Screw-Terminal Surface-Mount N.O. Magnetic Contact –White, 1/2″ (13mm) Gap, Open loop, UL listed",
+        "subdescription": "<li>With Mounting Tabs</li><li>Surface-mount magnetic contacts</li><li>Screw mount using side tabs</li><li>Terminal cover provided (required for all applications)</li> <li>ABS plastic case has lip to prevent wires from accidentally touching metal mountings and slotted mounting holes for easier gap adjustment</li><li>Gold-plated screw terminals for longer life and reliability</li> <li>Contact reed switch is SPST, deactivated rhodium on gold under-plating, for a long life</li><li>1/2” (13mm) Gap</li><li>Lifetime limited warranty</li><li>White case</li>",
+        "image": "images/13.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-300Q_W.pdf"
+      },
+      {
+        "id": 14,
+        "name": "SM-216Q/GY",
+        "description": "Surface-Mount Wide-Gap Magnetic Contact –Gray, 2-3/4″ (70mm) Gap, Closed loop, UL Listed",
+        "subdescription": " <li>Surface-mount magnetic contacts</li><li>Screw mount</li><li>ABS plastic case has integrated mounting holes</li> <li>Contact reed switch is SPST, deactivated rhodium on gold under-plating, for a long life</li><li>Wide 2-3/4″ (70mm) gap for loose-fitting doors and windows</li> <li>Spacers included</li><li>Lifetime limited warranty</li> <li>Grey case</li>",
+        "image": "images/14.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-216Q_GY.pdf"
+      },
+      {
+        "id": 15,
+        "name": "SM-216Q/BR",
+        "description": "Surface-Mount Wide-Gap Magnetic Contact –Brown, 2-3/4″ (70mm) Gap, Closed loop, UL listed",
+        "subdescription": " <li>Wide-Gap surface-mount magnetic contacts</li><li>Screw mount</li><li>ABS plastic case has integrated mounting holes</li><li>Contact reed switch is SPST, deactivated rhodium on gold under-plating, for a long life</li> <li>Wide 2-3/4” (70mm) gap for loose-fitting doors and windows</li><li>Spacers included</li><li>Lifetime limited warranty</li><li>Brown case</li>",
+        "image": "images/15.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-216Q_BR.pdf"
+      },
+      {
+        "id": 16,
+        "name": "SM-851",
+        "description": "Aluminum Z-bracket for SM-216Q, SM-226LQ, SM-226L-3Q",
+        "subdescription": "Aluminum Z-bracket for SM-216Q, SM-226LQ, SM-226L-3Q.",
+        "image": "images/16.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-851.pdf"
+      },
+      {
+        "id": 17,
+        "name": "SM-217Q/W",
+        "description": "Miniature Surface-Mount Wide-Gap Magnetic Contact –White, 2″ (51mm) Gap, Closed loop",
+        "subdescription": "<li>Surface-mount magnetic contact</li><li>Screw mount</li><li>ABS plastic case has integrated mounting holes</li><li>Contact reed switch is SPST, deactivated rhodium on gold under-plating, for a long life</li><li>White 2″ (51mm) wide gap for loose-fitting doors and windows</li> <li>Lifetime limited warranty</li>",
+        "image": "images/17.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-217Q_W.pdf"
+      },
+      {
+        "id": 18,
+        "name": "SM-433-TQ/W",
+        "description": "Concealed-Terminal Surface-Mount Magnetic Contact –White, 1-1/4″ (31mm) Gap, Closed loop, UL Listed",
+        "subdescription": "<li>Cover hides mounting screws, terminal block, and wires</li><li>Gold-plated screw terminals for longer life and reliability</li> <li>Contact reed switch is SPST, iridium-plated to have a high melting point and Vickers hardness, for higher handling power and a long life</li><li>1-1/4″ (31mm) Gap</li> <li>Lifetime limited warranty</li><li>White case</li>",
+        "image": "images/18.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-433-TQ_W.pdf"
+      },
+      {
+        "id": 19,
+        "name": "SM-433-TQ/B",
+        "description": "Concealed-Terminal Surface-Mount Magnetic Contact –Brown, 1-1/4″ (31mm) Gap, Closed Loop, UL Listed",
+        "subdescription": " <li>Cover hides mounting screws, terminal block, and wires</li> <li>Gold-plated screw terminals for longer life and reliability</li> <li>Contact reed switch is SPST, iridium-plated to have a high melting point, and Vickers hardness, for higher handling power and a long life</li><li>1-1/4″ (31mm) Gap</li><li>Lifetime limited warranty</li> <li>Brown case</li>",
+        "image": "images/19.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-433-TQ_B.pdf"
+      },
+      {
+        "id": 20,
+        "name": "SM-431-TQ/W",
+        "description": "Quick-Connect Terminal Surface-Mount Magnetic Contact – White, 1″ (25mm) Gap, Closed loop, UL Listed",
+        "subdescription": " <li>Miniature surface-mount magnetic contacts</li> <li>Gold-plated screw terminals for longer life and reliability</li> <li>Tape to cover screw terminals included</li><li>Contact reed switch is SPST, iridium-plated to have a high melting point and Vickers hardness, for higher handling power and longer life</li> <li>1″ (25mm) Gap</li><li>Closed loop</li> <li>Mounting screws and double-sided tape included</li><li>Lifetime limited warranty</li><li>White (brown also available)</li>",
+        "image": "images/20.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-431-TQ_W.pdf"
+      },
+      {
+        "id": 21,
+        "name": "SM-431-TQ/B",
+        "description": "Quick-Connect Terminal Surface-Mount Magnetic Contact – Brown, 1″ (25mm) Gap, Closed loop, UL Listed",
+        "subdescription": " <li>Miniature surface-mount magnetic contacts</li><li>Gold-plated screw terminals for longer life and reliability</li><li>Tape to cover screw terminals included</li><li>Contact reed switch is SPST, iridium-plated to have a high melting point and Vickers hardness, for higher handling power and longer life</li><li>1″ (25mm) Gap</li><li>Closed loop</li><li>Mounting screws and double-sided tape included</li><li>Lifetime limited warranty</li><li>White (brown also available)</li>",
+        "image": "images/21.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-431-TQ_B.pdf"
+      },
+      {
+        "id": 22,
+        "name": "SM-4003-TQ/W",
+        "description": "Quick-Connect Terminal Surface-Mount Magnetic Contact – White, 1″ (25mm) Gap, Closed loop, UL Listed",
+        "subdescription": "<li>Miniature surface-mount magnetic contacts</li><li>Gold-plated screw terminals for longer life and reliability</li> <li>Tape to cover screw terminals included</li><li>Contact reed switch is SPST, iridium-plated to have a high melting point and Vickers hardness for higher handling power and longer life</li><li>1″ (25mm) Gap</li><li>Mounting tape included</li><li>Lifetime limited warranty</li><li>White</li>",
+        "image": "images/22.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-4003-TQ_W.pdf"
+      },
+      {
+        "id": 23,
+        "name": "SM-4004-TQ/W",
+        "description": "Capsule-Type Quick-Connect Terminal Surface-Mount Magnetic Contact – White, 1″ (25mm) Gap, Closed loop",
+        "subdescription": " <li>Miniature capsule-type surface-mount magnetic contacts</li><li>Gold-plated external screw terminals for longer life and reliability with tape to cover terminals</li><li>Adhesive mounting (double-sided tape included)</li><li>Contact reed switch is SPST, iridium-plated to have a high melting point and Vickers hardness for higher power handling and a longer expected life</li><li>For closed loop circuits</li><li>1″ (25mm) Gap</li><li>Lifetime limited warranty</li>",
+        "image": "images/23.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-4004-TQ_W.pdf"
+      },
+      {
+        "id": 24,
+        "name": "SM-4004-LQ/W",
+        "description": "Capsule-Type Surface-Mount Magnetic Contact – White, 3/4″ (19mm) Gap, Closed loop",
+        "subdescription": "<li>Miniature capsule-type surface-mount magnetic contacts</li><li>18″ (46cm) Wire leads from center</li><li>Adhesive mounting (double-sided tape included)</li><li>Contact reed switch is SPST, ruthenium on gold underplating for a longer expected life</li> <li>For closed loop circuits</li><li>3/4″ (19mm) Gap</li><li>Lifetime limited warranty</li>",
+        "image": "images/24.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-4004-LQ_W.pdf"
+      },
+      {
+        "id": 25,
+        "name": "SM-204Q/W",
+        "description": "Miniature Surface-Mount Magnetic Contact – White, 1″ (25mm), Closed loop, UL Listed",
+        "subdescription": "<li>Miniature brown “flange type” surface-mount magnetic contacts are perfect for sliding doors and windows where space is limited</li> <li>Screw or adhesive mount</li><li>Mounting flange breaks off for extra miniature size</li<li>High-impact weatherproof ABS plastic case</li><li>Contact reed switch is SPST, deactivated rhodium on gold under-plating, for a long life</li> <li>15″ (38cm) leads extend from center of switch</li>  <li>1″ (25mm) Gap</li><li>Lifetime limited warranty</li>",
+        "image": "images/25.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-204Q_W.pdf"
+      },
+      {
+        "id": 26,
+        "name": "SM-204MQ/W",
+        "description": "Miniature Surface-Mount, Magnet Only – White, for use with SM-204Q/W and SM-205Q/W",
+        "subdescription": "<li>Miniature white “flange type” surface-mount magnetic contacts are perfect for sliding doors and windows where space is limited</li><li>Screw or adhesive mount</li><li>Mounting flange breaks off for extra miniature size</li> <li>High-impact weatherproof ABS plastic case</li> <li>Contact reed switch is SPST, deactivated rhodium on gold under-plating, for a long life</li><li>1″ (25mm) Gap</li><li>Lifetime limited warranty</li>",
+        "image": "images/26.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-204MQ_W.pdf"
+      },
+      {
+        "id": 27,
+        "name": "SM-204Q/BR",
+        "description": "Miniature Surface-Mount Magnetic Contact – Brown, 1″ (25mm), Closed loop, UL Listed",
+        "subdescription": " <li>Miniature brown “flange type” surface-mount magnetic contacts are perfect for sliding doors and windows where space is limited</li><li>Screw or adhesive mount</li><li>Mounting flange breaks off for extra miniature size</li><li>High-impact weatherproof ABS plastic case</li><li>Contact reed switch is SPST, deactivated rhodium on gold under-plating, for a long life</li><li>15″ (38cm) leads extend from center of switch</li> <li>1″ (25mm) Gap</li><li>Lifetime limited warranty</li>",
+        "image": "images/27.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-204Q_BR.pdf"
+      },
+      {
+        "id": 28,
+        "name": "SM-205Q/W",
+        "description": "Miniature Surface-Mount Magnetic Contact – White, 3/4″ (19mm) Gap, Closed loop, UL Listed",
+        "subdescription": "<li>Miniature “flange type” surface-mount magnetic contacts are perfect for sliding doors and windows where space is limited</li> <li>Screw or adhesive mount</li><li>Mounting flange breaks off for extra miniature size</li> <li>High-impact weatherproof white ABS plastic case</li> <li>Contact reed switch is SPST, deactivated rhodium on gold under-plating, for a long life</li> <li>15″ (38cm) leads extend from side of switch</li><li>3/4” (19mm) Gap</li> <li>Lifetime limited warranty</li>",
+        "image": "images/28.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-205Q_W.pdf"
+      },
+      {
+        "id": 29,
+        "name": "SM-205Q/BR",
+        "description": "Miniature Surface-Mount Magnetic Contact – Brown, 3/4″ (19mm) Gap, Closed loop, UL Listed",
+        "subdescription": " <li>Miniature “flange type” surface-mount magnetic contacts are perfect for sliding doors and windows where space is limited</li> <li>Screw or adhesive mount</li><li>Mounting flange breaks off for extra miniature size</li><li>High-impact weatherproof white ABS plastic case</li><li>Contact reed switch is SPST, deactivated rhodium on gold under-plating, for a long life</li><li>15″ (38cm) leads extend from side of switch</li><li>3/4” (19mm) Gap</li><li>Lifetime limited warranty</li>",
+        "image": "images/29.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-205Q_BR.pdf"
+      },
+      {
+        "id": 30,
+        "name": "SM-206Q/W",
+        "description": "1/4″ Concealed-Mount Magnetic Contact – White, 1″ (25mm) Gap, Closed loop, UL Listed",
+        "subdescription": " <li>Used for protecting sliding doors and windows where space is limited</li><li>Contact reed switch is SPST, deactivated rhodium on gold under-plating, for a long life</li><li>Unique glue/epoxy compound protects reed switch</li> <li>1/4″, Press-fit mount</li><li>15″ (38cm) wire leads</li> <li>1″ (25mm) Gap</li><li>Lifetime limited warranty</li><li>White case</li>",
+        "image": "images/30.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-206Q_W.pdf"
+      },
+      {
+        "id": 31,
+        "name": "SM-206Q/BR",
+        "description": "1/4″ Concealed-Mount Magnetic Contact – Brown, 1″ (25mm) Gap, Closed loop, UL Listed",
+        "subdescription": " <li>Used for protecting sliding doors and windows where space is limited</li> <li>Contact reed switch is SPST, deactivated rhodium on gold under-plating, for a long life</li><li>Unique glue/epoxy compound protects reed switch</li> <li>1/4″, Press-fit mount</li><li>1″ (25mm) Gap</li> <li>15″ (38cm) wire leads</li><li>Lifetime limited warranty</li> <li>Brown case</li>",
+        "image": "images/31.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-206Q_BR.pdf"
+      },
+      {
+        "id": 32,
+        "name": "SM-207Q/W",
+        "description": "3/8″ Concealed-Mount Magnetic Contact – White, 1″ (25mm) Gap, Closed loop, UL Listed",
+        "subdescription": "<li>Used for protecting sliding doors and windows where space is limited</li><li>Contact reed switch is SPST, deactivated rhodium on gold under-plating, for a long life</li> <li>Unique glue/epoxy compound protects reed switch</li> <li>1″ (25mm) Gap</li> <li>3/8″, Press-fit mount</li><li>15″ (38cm) wire leads</li><li>Lifetime limited warranty</li><li>White case</li>",
+        "image": "images/32.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-207Q_W.pdf"
+      },
+      {
+        "id": 33,
+        "name": "SM-207Q/BR",
+        "description": "3/8″ Concealed-Mount Magnetic Contact – Brown, 1″ (25mm) Gap, Closed loop, UL Listed",
+        "subdescription": " <li>Used for protecting sliding doors and windows where space is limited</li><li>Contact reed switch is SPST, deactivated rhodium on gold under-plating, for a long life</li> <li>Unique glue/epoxy compound protects reed switch</li> <li>3/8″, Press-fit mount</li><li>15″ (38cm) wire leads</li><li>1″ (25mm) Gap</li> <li>Lifetime limited warranty</li>",
+        "image": "images/33.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-207Q_BR.pdf"
+      },
+      {
+        "id": 34,
+        "name": "SM-207-5Q/W",
+        "description": "3/8″ Concealed-Mount Magnetic Contact, Stubby – White, 3/8″ (10mm) Gap, Closed loop",
+        "subdescription": " <li>Used for protecting sliding doors and windows where space is limited</li> <li>Contact reed switch is SPST, deactivated rhodium on gold under-plating, for a long life</li> <li>Unique glue/epoxy compound protects reed switch</li> <li>3/8″, Press-fit mount</li><li>15″ (38cm) wire leads</li><li>3/8” (10mm) Gap, with Stubby 3/4” (19mm) Switch and Magnet</li> <li>Lifetime limited warranty</li><li>White case</li>",
+        "image": "images/34.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-207-5Q_W.pdf"
+      },
+      {
+        "id": 35,
+        "name": "SM-207-5Q/BR",
+        "description": "3/8″ Concealed-Mount Magnetic Contact, Stubby – Brown, 3/8″ (10mm) Gap, Closed Loop",
+        "subdescription": "<li>Used for protecting sliding doors and windows where space is limited</li><li>Contact reed switch is SPST, deactivated rhodium on gold under-plating, for a long life</li><li>Unique glue/epoxy compound protects reed switch</li><li>3/8″, Press-fit mount</li><li>15″ (38cm) wire leads</li><li>3/8” (10mm) Gap, N.C., with Stubby 3/4” (19mm) Switch and Magnet</li> <li>Lifetime limited warranty</li> <li>Brown case</li>",
+        "image": "images/35.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-207-5Q_BR.pdf"
+      },
+      {
+        "id": 36,
+        "name": "SM-207-5LQ/W",
+        "description": "3/8″ Concealed-Mount Magnetic Contact, Wide Gap, Stubby – White, 1″ (25mm) Gap, Closed loop",
+        "subdescription": "<li>Used for protecting sliding doors and windows where space is limited</li><li>Contact reed switch is SPST, deactivated rhodium on gold under-plating, for a long life</li><li>Unique glue/epoxy compound protects reed switch</li><li>1″ (25mm) Gap, N.C., with Stubby 3/4” (19mm) Switch</li><li>3/8″, Press-fit mount</li><li>15″ (38cm) wire leads</li><li>Lifetime limited warranty</li>",
+        "image": "images/36.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-207-5LQ_W.pdf"
+      },
+      {
+        "id": 37,
+        "name": "SM-407-5TQ/W",
+        "description": "3/8″ Quick-Connect Terminal Recessed-Mount Magnetic Contact – White, 3/4″ (19mm) Gap, Closed loop, UL Listed",
+        "subdescription": "<li>Used for protecting sliding doors and windows where space is limited</li><li>Gold-plated terminals for longer life and reliability</li><li>Screw terminals</li><li>High-impact ABS plastic</li> <li>Miniature size assures ease of concealment</li> <li>Switch and magnet have ribs for securing in holes</li><li>Contact reed switch is SPST, iridium-plated to have a high melting point and Vickers hardness, for higher power handling and long life</li><li>3/8” Press-fit</li><li>3/4” (19mm) Gap</li> <li>Lifetime limited warranty</li>",
+        "image": "images/37.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-407-5TQ_W.pdf"
+      },
+      {
+        "id": 38,
+        "name": "SM-4102-TQ/W",
+        "description": "3/8″ Quick-Connect Terminal Recessed-Mount Magnetic Contact – White, 1″ (25mm) Gap, Closed loop, UL Listed",
+        "subdescription": "<li>Used for protecting sliding doors and windows where space is limited</li> <li>3/8″ (10mm) Press-fit mount</li><li>Gold-plated terminals for longer expected life and reliability</li> <li>Screw terminals</li><li>High-impact ABS plastic</li><li>Miniature size for easier concealment</li><li>Switch and magnet have ribs for securing in holes</li><li>Contact reed switch is SPST, iridium-plated to have a high melting point and Vickers hardness for higher power handling and longer expected life</li><li>For closed loop circuits</li><li>1″ (25mm) Gap</li><li>Lifetime limited warranty</li>",
+        "image": "images/38.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-4102-TQ_W.pdf"
+      },
+      {
+        "id": 39,
+        "name": "SM-4103-TQ/W",
+        "description": "3/8″ Rare-Earth Quick-Connect Terminal Recessed-Mount Magnetic Contact – White, 1/2″ (12mm) Gap, Closed Loop",
+        "subdescription": "<li>Used for protecting sliding doors and windows where space is limited</li><li>Rare-earth magnet with nickel plating to protect against chipping and corrosion</li><li>Gold-plated terminals for longer life and reliability</li> <li>High-impact ABS plastic</li><li>Miniature size assures ease of concealment</li>li>Switch and magnet have ribs for securing in holes</li> <li>Contact reed switch is SPST, ruthenium on gold under-plating, for a long life</li><li>3/8″ Press-fit with stubby 1″ switch</li><li>1/2″ (13mm) Gap</li> <li>White, with Screw Terminals</li><li>Lifetime limited warranty</li>",
+        "image": "images/39.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-4103-TQ_W.pdf"
+      },
+      {
+        "id": 40,
+        "name": "SM-4103-LQ/W",
+        "description": "3/8″ Rare-Earth Recessed-Mount Magnetic Contact Switch – White, 1/2″ (12mm) Gap, Closed loop, UL Listed",
+        "subdescription": " <li>Used for protecting sliding doors and windows where space is limited</li><li>Rare-earth magnet with nickel plating to protect against chipping and corrosion</li> <li>Contact reed switch is SPST, ruthenium on gold under-plating, for a long life</li> <li>High-impact ABS plastic</li> <li>Miniature size assures ease of concealment</li><li>Switch and magnet have ribs for securing in holes</li> <li>1/2″ (13mm) Gap, white, with 18″ (46cm) Leads and 9/16″ (14.5mm) switch</li><li>3/8″ Press-fit with stubby 9/16″ switch</li><li>Lifetime limited warranty</li>",
+        "image": "images/40.webp",
+        "shared_image": "images/shared-image.jpg",
+         "files":"files/SM-4103-LQ_W.pdf"
+      },
+      {
+        "id": 41,
+        "name": "SM-4104-TQ/W",
+        "description": "3/4″ Steel-Door Quick-Connect Terminals Recessed-Mount Magnetic Contact – White, 1″ (25mm) Gap, Closed loop, UL Listed",
+        "subdescription": "<li>Used for steel framed doors and windows where space is limited or to avoid unsightly installations</li> <li>Strong one-piece construction</li><li>Gold-plated terminals for longer life and reliability</li><li>Screw terminals</li><li>Switch and magnet have ribs for securing in holes</li><li>Contact reed switch is SPST, iridium-plated to have a high melting point and Vickers hardness, for higher handling power and a long life</li><li>1″ (25mm) Gap</li><li>High-impact white ABS plastic</li> <li>Lifetime limited warranty</li>",
+        "image": "images/41.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-4104-TQ_W.pdf"
+      },
+      {
+        "id": 42,
+        "name": "SM-4105-LQ/W",
+        "description": "3/4″ Steel-Door Recessed-Mount Magnetic Contact – White, 1″ (25mm) Gap, Closed loop, UL Listed",
+        "subdescription": "<li>Used for steel framed doors and windows where space is limited or to avoid unsightly installations</li> <li>Strong one-piece construction</li><li>Switch and magnet have ribs for securing in holes</li><li>Contact reed switch is SPST, iridium-plated to have a high melting point and Vickers hardness, for higher handling power and a longer life</li><li>1″ (25mm) Gap, with 18″ (46cm) wire leads</li><li>Lifetime limited warranty</li><li>White case, high-impact ABS plastic</li>",
+        "image": "images/42.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-4105-LQ_W.pdf"
+      },
+      {
+        "id": 43,
+        "name": "SM-4105-LQ/B",
+        "description": "3/4″ Steel-Door Recessed-Mount Magnetic Contact – Brown, 1″ (25mm) Gap, Closed loop, UL Listed",
+        "subdescription": "<li>Used for steel framed doors and windows where space is limited or to avoid unsightly installations</li><li>Strong one-piece construction</li> <li>Switch and magnet have ribs for securing in holes</li><li>Contact reed switch is SPST, iridium-plated to have a high melting point and Vickers hardness, supporting higher handling power and longer life</li><li>1″ (25mm) Gap, with 18″ (46cm) wire leads</li><li>Lifetime limited warranty</li><li>Brown case, high-impact ABS plastic</li>",
+        "image": "images/43.webp",
+        "shared_image": "images/shared-image.jpg",
+         "files":"files/SM-4105-LQ_B.pdf"
+      },
+      {
+        "id": 44,
+        "name": "SM-4301-TQ/W",
+        "description": "Plunger-Type Quick-Connect Terminals Recessed-Mount Magnetic Contact – White, 1/4″ (6mm) Gap, Closed loop",
+        "subdescription": "<li>Used for protecting sliding doors and windows where space is limited</li> <li>Magnet and reed switch contained in housing</li><li>Plunger travel is 1/4″ (6mm)</li><li>Screw terminals</li><li>Contact reed switch is SPST, iridium-plated to have a high melting point and Vickers hardness for higher power handling and longer expected life</li><li>For closed loop circuits</li><li>Spacer and screws included</li><li>Lifetime limited warranty</li>",
+        "image": "images/44.webp",
+        "shared_image": "images/shared-image.jpg",
+         "files":"files/SM-4301-TQ_W.pdf"
+      },
+      {
+        "id": 45,
+        "name": "SM-4302-LQ/W",
+        "description": "Rollerball-Type Recessed-Mount Magnetic Contact – White, 1/4″ (6mm) Gap, Closed loop, UL Listed",
+        "subdescription": "<li>Used for protecting sliding doors and windows where space is limited</li><li>Magnet and reed switch contained in housing</li><li>Rollerball plunger travel is 1/4″ (6mm)</li><li>360º Rollerball</li> <li>18″ (46cm) Wire leads</li><li>Contact reed switch is SPST, iridium-plated to have a high melting point and Vickers hardness for higher power handling and longer expected life</li><li>For closed loop circuits</li><li>Spacer and screws included</li><li>Lifetime limited warranty</li>",
+        "image": "images/45.webp",
+        "shared_image": "images/shared-image.jpg",
+        "files":"files/SM-4302-LQ_W.pdf"
+      },
+      {
+        "id": 46,
+        "name": "SM-4303-TQ/W",
+        "description": "Rollerball-Type Quick-Connect Terminal Recessed-Mount Magnetic Contact – White, 1/4″ (6mm) Gap, Closed loop",
+        "subdescription": "<li>Rollerball with screw connectors, white</li><li>Used for protecting sliding doors and windows where space is limited</li> <li>Magnet and reed switch contained in housing</li><li>Contact reed switch is SPST, ruthenium on gold under plating, for a long life</li><li>Spacer and screws included</li><li>360º Rollerball plunger travel is 1/4” (6mm)</li> <li>Screw terminals</li><li>Lifetime limited warranty</li>",
+        "image": "images/46.webp",
+        "shared_image": "images/shared-image.jpg",
+         "files":"files/SM-4303-TQ_W.pdf"
+      },
+      {
+        "id": 47,
+        "name": "SM-831",
+        "description": "ALNICO 5 Bare Magnet, 1-7/32″ long x1/4″ diameter",
+        "subdescription": " <li>ALNICO 5</li><li>1-1/4″ (31mm) long x 1/4″ (6.4mm) diameter</li>",
+        "image": "images/47.webp",
+        "shared_image": "images/shared-image.jpg",
+         "files":"files/SM-831.pdf"
+      }
+      
+    ]
+  }
+  
