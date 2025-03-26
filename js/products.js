@@ -1,4 +1,4 @@
-const productsJsonUrl = "products.json"; // قم بتعديل المسار حسب ملف JSON الخاص بك
+const productsJsonUrl = "../products.json"; // قم بتعديل المسار حسب ملف JSON الخاص بك
 
 const productsContainer = document.getElementById("products-container");
 
